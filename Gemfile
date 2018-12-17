@@ -1,4 +1,5 @@
-source 'https://rubygems.org' do
-  gem 'twitter', '~> 5.16'
-  gem 'dotenv-rails'
-end
+source 'https://rubygems.org'
+ruby "2.3.0"
+
+gem 'twitter', '~> 5.16'
+gem 'dotenv-rails'

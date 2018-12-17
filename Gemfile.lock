@@ -103,7 +103,7 @@ DEPENDENCIES
   twitter (~> 5.16)
 
 RUBY VERSION
-   ruby 2.3.0p0
+   ruby 2.3.8p459
 
 BUNDLED WITH
-   1.12.5
+   1.16.2

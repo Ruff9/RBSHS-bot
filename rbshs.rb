@@ -12,7 +12,7 @@ client = Twitter::REST::Client.new do |config|
 end
 
 tweet_array = []
-client.search("#RBSHS #rbshs", search_options).each do |tweet|
+client.search("#RBSHS", search_options).each do |tweet|
   tweet_array << tweet
 end
 
